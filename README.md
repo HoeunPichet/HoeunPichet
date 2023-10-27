@@ -1,7 +1,7 @@
 <div align='center' >
 
-  ### Hi! PPhat 👋
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=fffff&size=24&width=500&lines=Hi+there+👋;Hi+there+👋" alt="pphatDev" /><br/> -->
+  ### Hi! Zire Frizzy 👋
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=fffff&size=24&width=500&lines=Hi+there+👋;Hi+there+👋" alt="Zire Frizzy" /><br/> -->
 <img align='middle' src='https://raw.githubusercontent.com/pphatdev/pphatDev/main/me.svg'/>
 
 <br>
@@ -11,9 +11,9 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
 </div>
 
-[Blog](https://leatsophat.me/)
+[Blog](https://HoeunPichet.me/)
 
-![Counter](https://count.getloli.com/get/@pphatdev?theme=gelbooru)
+![Counter](https://count.getloli.com/get/@HoeunPichet?theme=gelbooru)
 
 ![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
