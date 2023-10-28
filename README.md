@@ -7,8 +7,8 @@
 <br>
 
 <div>
-    <img src="https://media.tenor.com/gC0YFLlsbpYAAAAC/no-emoji.gif" width="60" height="60" align="left"/> 
-    <img src="https://media.tenor.com/gC0YFLlsbpYAAAAC/no-emoji.gif" width="60" height="60" align="right"/> 
+    <img src="https://media.tenor.com/gC0YFLlsbpYAAAAC/no-emoji.gif" width="80" height="80" align="left"/> 
+    <img src="https://media.tenor.com/gC0YFLlsbpYAAAAC/no-emoji.gif" width="80" height="80" align="right"/> 
 </div>
 
 [Blog](https://HoeunPichet.me/)
