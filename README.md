@@ -19,6 +19,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠 &nbsp;Tech Stack
+<img align="right" alt="GIF" height="200px" src="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1cabad59c5b9c17e13e2e01d3846/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966" />
+
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Php](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -36,7 +38,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -81,8 +82,10 @@
   </a>
   
 </p>
+<div align="center">
 
-![Counter](https://count.getloli.com/get/@HoeunPichet?theme=gelbooru)
+  ![Counter](https://count.getloli.com/get/@HoeunPichet?theme=gelbooru)
+</div>
 
 ### 📫 &nbsp;Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-good123vichet@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:good123vichet@gmail.com)](good123vichet@gmail.com)
