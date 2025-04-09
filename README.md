@@ -35,7 +35,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 
 
 
