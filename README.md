@@ -1,93 +1,53 @@
-<div align='center' >
-  <!--h2 without bottom border-->
-  <div id="user-content-toc">
-    <ul align="center">
-      <summary><h2 style="display: inline-block">Hi! Zire Frizzy 👋</h2></summary>
-    </ul>
-  </div>
-</div>
-<a target="_blank" align="center">
-  <img align="right" top="400" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<!-- Header Image -->
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=0:8EC5FC,100:E0C3FC&height=180&section=header&text=Hi,%20I'm%20[Your Name]!&fontSize=40&fontColor=ffffff" />
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
-- A passionate self-taught `Front-end developer`
-- Currently learning Web Development by self
-- I’m currently open for a Web Developer
-<br>
+<!-- Intro -->
+# 💫 About Me:
+👋 Hey there! I'm Pichet, a passionate developer who loves building cool things with code.  
+💡 Always learning, always curious.  
+🌱 Currently diving deeper into Full-Stack Web Developer.  
+🎯 2025 Goals: .
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🛠 &nbsp;Tech Stack
-<img align="right" alt="GIF" height="200px" src="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1cabad59c5b9c17e13e2e01d3846/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966" />
-
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Less](https://img.shields.io/badge/-Less-05122A?style=flat&logo=less)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Ant Design](https://img.shields.io/badge/-Ant_Design-05122A?style=flat&logo=antdesign)&nbsp;
-![Next UI](https://img.shields.io/badge/-Next_UI-05122A?style=flat&logo=nextui)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-### 🔭 &nbsp;Activities
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-  <table width="100%" style="border: thin double">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=HoeunPichet&theme=dark&show_icons=true&count_private=true" />
-      </td>
-      <td>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HoeunPichet&theme=dark&hide_border=false" />
-      </td>
-    </tr>
-  </table>
-  <!--- stats (end) -->
-
-  <!--- trophy (start) -->
-  <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=HoeunPichet&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-      </a>
-  </div>
-  <!--- trophy (start) -->
-</p>        
-<!--- stats (end) -->
+<!-- Languages & Tools -->
+## 🛠️ Languages & Tools:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)\
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,figma,firebase,github,html,java,js,md,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode&perline=14" />
-  </a>
-  
-</p>
-<div align="center">
-
-  ![Counter](https://count.getloli.com/get/@HoeunPichet?theme=gelbooru)
-</div>
-
-### 📫 &nbsp;Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-good123vichet@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:good123vichet@gmail.com)](good123vichet@gmail.com)
 
 
+<!-- GitHub Stats -->
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoeunPichet&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoeunPichet&layout=compact&theme=radical)
+
+<!-- Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Connect with me -->
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox-browser&logoColor=white)](https://yourportfolio.com)
+
+<!-- Footer Image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=120&section=footer"/>
