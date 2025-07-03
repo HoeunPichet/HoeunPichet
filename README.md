@@ -17,8 +17,8 @@
 
 <!-- Languages & Tools -->
 ## 🛠️ Languages & Tools:
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=fff)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellijidea&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor%20IDE-3C98FF?logo=cursor&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-1e1e1e?logo=https://cursor.com/_next/static/media/placeholder-logo.737626f1.webp&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 
