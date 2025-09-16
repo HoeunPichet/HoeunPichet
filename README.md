@@ -34,7 +34,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?logo=intellijidea&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-1e1e1e?logo=https://cursor.com/_next/static/media/placeholder-logo.737626f1.webp&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)\
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=fff)
+![Load Balancer](https://img.shields.io/badge/-Load_Balancer-4B5563?logo=nginx&logoColor=fff)
+![Keycloak](https://img.shields.io/badge/-Keycloak-EC7211?logo=keycloak&logoColor=fff)
+![API Gateway](https://img.shields.io/badge/-API_Gateway-45B39D?logo=spring&logoColor=fff)
+![Service Discovery](https://img.shields.io/badge/-Service_Discovery-3498DB?logo=spring&logoColor=fff)
 
 
 <!-- GitHub Stats -->
