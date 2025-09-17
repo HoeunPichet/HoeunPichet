@@ -41,7 +41,9 @@
 ![Keycloak](https://img.shields.io/badge/-Keycloak-EC7211?logo=keycloak&logoColor=fff)
 ![API Gateway](https://img.shields.io/badge/-API_Gateway-45B39D?logo=spring&logoColor=fff)
 ![Service Discovery](https://img.shields.io/badge/-Service_Discovery-3498DB?logo=spring&logoColor=fff)
-![Zipkin](https://img.shields.io/badge/Tracing-Zipkin-orange?logo=apache&logoColor=white)
+![Zipkin](https://img.shields.io/badge/Tracing-Zipkin-orange?logo=apache&logoColor=white)\
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 
 <!-- GitHub Stats -->
