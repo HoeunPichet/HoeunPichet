@@ -12,8 +12,7 @@
 # 💫 About Me:
 👋 Hey there! I'm Pichet, a passionate developer who loves building cool things with code.  
 💡 Always learning, always curious.  
-🌱 Currently diving deeper into Full-Stack Developer.  
-🎯 2025 Goals: .
+🌱 Currently diving deeper into CI/CD.
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats:
