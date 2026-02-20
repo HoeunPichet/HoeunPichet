@@ -16,8 +16,8 @@
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HoeunPichet&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoeunPichet&layout=compact&theme=radical)
+![Your GitHub Stats](https://stats.pphat.top/stats?username=HoeunPichet&avatar_mode=radar&data_border_style=solid&data_border_frame_position=in)
+![Top Langs](https://stats.pphat.top/languages?username=HoeunPichet&theme=default)
 
 
 
