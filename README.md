@@ -20,9 +20,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoeunPichet&layout=compact&theme=radical)
 
 
+
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=HoeunPichet&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=HoeunPichet&theme=radical&no-frame=true&row=1&column=6)
 
 <!-- Connect with me -->
 ## 📫 Connect with me:
