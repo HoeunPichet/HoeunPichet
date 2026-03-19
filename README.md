@@ -1,8 +1,20 @@
 <h1 align="center">🚀 Welcome to My GitHub!</h1>
-
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B42F3&height=200&section=header&text=Hi,%20I'm%20Pichet%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+-->
+
+<a href="https://github.com/HoeunPichet">
+<img align='middle' src="https://stats.sophat.top/stats?username=HoeunPichet&avatar_mode=radar&data_border_style=frame&data_border_frame=out&hide_title=false" style="width:100%"/>
+</a>
+
+<div align="center" style="margin-top: 20px;">
+
+![Portfolio](https://stats.pphat.top/project/visitors?repo=HoeunPichet/github-readme-stats&theme=ocean)
+![Portfolio](https://stats.pphat.top/project/stars?repo=HoeunPichet/github-readme-stats&theme=ocean)
+![Portfolio](https://stats.pphat.top/project/forks?repo=HoeunPichet/github-readme-stats&theme=ocean)
+![Portfolio](https://stats.pphat.top/project/contributors?repo=HoeunPichet/github-readme-stats&theme=ocean)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=435&lines=Web+Developer;Open-source+Contributor;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
