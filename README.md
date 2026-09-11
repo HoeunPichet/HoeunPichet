@@ -35,6 +35,7 @@
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=HoeunPichet&theme=radical&no-frame=true&row=1&column=6)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Connect with me -->
 ## 📫 Connect with me:
