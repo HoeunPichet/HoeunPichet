@@ -34,7 +34,7 @@
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=HoeunPichet&theme=radical&no-frame=true&row=1&column=6)
+![Trophy](https://github-profile-trophy-cyan-seven.vercel.app/?username=HoeunPichet&theme=radical&no-frame=true&row=1)
 
 <!-- Connect with me -->
 ## 📫 Connect with me:
